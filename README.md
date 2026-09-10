@@ -11,7 +11,7 @@ An interactive, browser-based financial model and ROI calculator designed for in
 Publishing a hybrid tech-biography/memoir requires balancing pre-press fixed costs, print production expenses, retailer commissions and direct-to-consumer digital distribution. 
 
 This single-file web application calculates:
-* **Hardcopy & Softcopy Unit Net Margins** after accounting for printing, payment gateways, and retailer commissions.
+* **Hardcopy & Softcopy Unit Net Margins** after accounting for printing, payment gateways and retailer commissions.
 * **Total Project Outlay & Gross Revenue** across dual-track distribution channels.
 * **Hardcopy Break-Even Analysis** to determine the exact number of physical units required to cover fixed production costs.
 * **Return on Investment (ROI)** percentage based on customizable sales volumes.
@@ -35,5 +35,6 @@ This single-file web application calculates:
    git clone [https://github.com/Knoph1/book-royalty-&-profit-roi-calculator.git](https://github.com/Knoph1/book-royalty-&-profit-roi-calculator.git)
    cd book-royalty-&-profit-roi-calculator
 
-   Book Royalty & Profit ROI Calculator
-   
+---
+
+By: **Knoph O. Ayieko**
